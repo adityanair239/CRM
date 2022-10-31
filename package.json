@@ -17,6 +17,13 @@
   },
   "homepage": "https://github.com/adityanair239/CRM_Nodejs_practice#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.7.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
   }
 }
